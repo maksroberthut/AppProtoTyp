@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:id="@+id/txt_banner"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="@string/dummy_content"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+    <view
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@+id/txt_banner"
+        android:background="@color/black_overlay"/>
+    <ListView
+        android:id="@+id/lv_tc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_banner"
+        android:divider="@color/colorPrimary"
+        android:dividerHeight="4px"
+        />
+
+    
+
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047311823671",
+    "firebase_url": "https://androidwatchit-d4825.firebaseio.com",
+    "project_id": "androidwatchit-d4825",
+    "storage_bucket": "androidwatchit-d4825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047311823671:android:93d248f79d259168",
+        "android_client_info": {
+          "package_name": "com.example.maksr.testandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047311823671-ahdrgdjb6cdkkqh391b09epletuaie7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnpUP24pobVnTpdyvTgpKbTI3tx8kRnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
